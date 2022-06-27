@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\stomatologiyaDB\bin\Debug\stomatologiyaDB.exe.config
+C:\Users\User\source\repos\stomatologiyaDB\bin\Debug\stomatologiyaDB.exe
+C:\Users\User\source\repos\stomatologiyaDB\bin\Debug\stomatologiyaDB.pdb
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.Form1.resources
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.Properties.Resources.resources
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.csproj.GenerateResource.cache
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.exe
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.pdb
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.Client.resources
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.Doctor.resources
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.regClient.resources
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.Registr.resources
+C:\Users\User\source\repos\stomatologiyaDB\obj\Debug\stomatologiyaDB.auth.resources
